@@ -6,6 +6,7 @@
 - 🌱 I’m currently learning **Rust, Zig, Assembly, and UX design principles** (a bit of an odd mix I know 😆) and taking the Alx course because I feel like I need certification since I'm self-taught 🤷‍♂️.
 - 🔩 I’m currently working on a Flutter-like UI development framework written in ES13 JS called [Buzz](https://github.com/buzz-js/buzz-js) because I can, its fun, and I feel like doing more in the open-source community. 😄
 - 🤓 On a side note, I love anime too 🌚⭐
+- If you want to reach out to me, feel free to use my contact information in my profile. 🌚⭐
 
 ### ⚡🌠 An Overview of My Git History
 <hr/>
