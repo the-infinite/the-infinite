@@ -9,8 +9,6 @@
 - If you want to reach out to me, feel free to use my contact information in my profile. 🌚⭐
 
 ### ⚡🌠 An Overview of My Git History
-<hr/>
-<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=the-infinite" alt="the-infinite" /></a> </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=the-infinite&show_icons=true&locale=en&layout=compact" alt="the-infinite" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=the-infinite&show_icons=true&locale=en" alt="the-infinite" /></p>
