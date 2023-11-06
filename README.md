@@ -4,7 +4,7 @@
 
 - 🔭 I currently work at [Monochrome Technologies](https://github.com/monochrome-tech)
 - 🌱 I’m currently learning **Rust, Zig, Assembly, and UX design principles** (a bit of an odd mix I know 😆) and taking the Alx course because I feel like I need certification since I'm self-taught 🤷‍♂️.
-- 🔩 I’m currently working on a Flutter-like UI development framework written in ES13 JS called [Buzz](https://github.com/buzz-js/buzz-js) because I can, its fun, and I feel like doing more in the open-source community. 😄
+- 🔩 I’m currently making a programming Language named [Landmark](https://github.com/landmark-lang) that is kind of syntactically inspired by Rust. I decided to make the programming language because I wanted to make a back-end framework in C and maintaining it was beginning to feel quite painful (I had to rewrite some of GLibC to make sure it was more safe). Then I decided it would make more sense to just make a programming language built around the C/C++ ecosystem with safety at the front and center of the equation (and a path of pain ahead of me 😄). I would love to talk more about Landmark but that is a conversation for another time (and probably in a proper article). 
 - 🤓 On a side note, I love anime too 🌚⭐
 - If you want to reach out to me, feel free to use my contact information in my profile. 🌚⭐
 
