@@ -1,10 +1,9 @@
 ### Hi 👋, I'm Oluwatobiloba Johnson
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=the-infinite" alt="the-infinite" /> </p>
 
-<!--- 🔭 I currently work at [Monochrome Technologies](https://github.com/monochrome-tech)-->
+- 🔭 I currently work at [Moovable Technologies](https://github.com/moovabletech)
 - 🌱 I’m currently learning **Rust, Zig, Assembly, and UX design principles** (a bit of an odd mix I know 😆).
-- 🔩 I’m currently making a full-stack framework in Dart named [DeepEnd](https://github.com/into-the-deep). This is becuase there's already enough of this written in JavaScript and last I checked, Flutter web is not performant enough to be used in production-grade application development. You can make it work though, but the effort needed is not negligible enough. On the side, I am also writing [Landmark](https://github.com/landmark-lang). Landmark, is a system's programming language that is kind of heavily inspired by Rust. The memory management model is similar to Rust's but just without any borrow-checking. If you want to find more out about Landmark, hopefully by the time you click that link, I'd have put something readable up there.
+- 🔩 On the side, I am writing [Landmark](https://github.com/landmark-lang). Landmark, is a system's programming language that is kind of heavily inspired by Rust. The memory management model is similar to Rust's but just without any borrow-checking. If you want to find more out about Landmark, hopefully by the time you click that link, I'd have put something readable up there. Oh yeah, and recently I started working on [Basilisk](https://github.com/basilisk-proxy/server). A proxy-server written in Rust which has its primary focus to be performance, and customizability. Oh yeah, did I mention it has a Lua runtime built into it too? 🌚⭐
 - 🤓 On a side note, I love anime too 🌚⭐
 - If you want to reach out to me, feel free to use my contact information in my profile. 🌚⭐
 
